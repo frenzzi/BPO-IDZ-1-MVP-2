@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C \u041F\u0430\u0432\u043B\u044E\u0447\u0435\u043D\u043A\u043E\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u041D\u0418\u0412\u0415\u0420\\\u0411\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\IDZ_1_MVP_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA407E01-FBD4-4BA6-8684-25615CC43AA1}|IDZ_1_MVP_2.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C \u043F\u0430\u0432\u043B\u044E\u0447\u0435\u043D\u043A\u043E\\desktop\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\idz_1_mvp_2\\banki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA407E01-FBD4-4BA6-8684-25615CC43AA1}|IDZ_1_MVP_2.csproj|solutionrelative:banki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banki.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C \u041F\u0430\u0432\u043B\u044E\u0447\u0435\u043D\u043A\u043E\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u041D\u0418\u0412\u0415\u0420\\\u0411\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\IDZ_1_MVP_2\\Banki.cs",
+              "RelativeDocumentMoniker": "Banki.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C \u041F\u0430\u0432\u043B\u044E\u0447\u0435\u043D\u043A\u043E\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u041D\u0418\u0412\u0415\u0420\\\u0411\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\IDZ_1_MVP_2\\Banki.cs",
+              "RelativeToolTip": "Banki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:58:00.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
