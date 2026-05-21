@@ -204,15 +204,9 @@ namespace IDZ_1_MVP_2.Banki
             const string CommandInfo = "4";
             const string CommandExit = "5";
 
-            // Создаём банкомат с параметрами, введёнными пользователем
-            Console.Write("Введите ID банкомата: ");
-            int id = int.Parse(Console.ReadLine());
-
-            Console.Write("Минимальная сумма снятия: ");
-            int minLimit = int.Parse(Console.ReadLine());
-
-            Console.Write("Максимальная сумма снятия: ");
-            int maxLimit = int.Parse(Console.ReadLine());
+            int id = ReadInt("Введите ID банкомата: ");
+            int minLimit = ReadInt("Минимальная сумма снятия: ");
+            int maxLimit = ReadInt("Максимальная сумма снятия: ");
 
             if (!Bankomat.TryCreate(id, minLimit, maxLimit, out Bankomat? bankomat))
             {
@@ -298,6 +292,22 @@ namespace IDZ_1_MVP_2.Banki
                     Console.WriteLine("\nНажмите любую клавишу...");
                     Console.ReadKey();
                 }
+            }
+        }
+
+        static int ReadInt(string message)
+        {
+            while (true)
+            {
+                Console.Write(message);
+                string input = Console.ReadLine();
+
+                if (int.TryParse(input, out int result))
+                {
+                    return result;
+                }
+
+                Console.WriteLine("Ошибка: Пожалуйста, введите корректное число.");
             }
         }
     }

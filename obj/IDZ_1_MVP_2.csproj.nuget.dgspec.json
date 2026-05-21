@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\IDZ_1_MVP_2.csproj": {}
+    "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\BPO-IDZ-1-MVP-2\\IDZ_1_MVP_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\IDZ_1_MVP_2.csproj": {
+    "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\BPO-IDZ-1-MVP-2\\IDZ_1_MVP_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\IDZ_1_MVP_2.csproj",
+        "projectUniqueName": "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\BPO-IDZ-1-MVP-2\\IDZ_1_MVP_2.csproj",
         "projectName": "IDZ_1_MVP_2",
-        "projectPath": "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\IDZ_1_MVP_2.csproj",
+        "projectPath": "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\BPO-IDZ-1-MVP-2\\IDZ_1_MVP_2.csproj",
         "packagesPath": "C:\\Users\\Артём Павлюченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\obj\\",
+        "outputPath": "C:\\Users\\Артём Павлюченко\\Desktop\\Учёба\\УНИВЕР\\Безопасность ПО\\Практики\\IDZ_1_MVP_2\\BPO-IDZ-1-MVP-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
